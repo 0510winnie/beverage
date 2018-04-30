@@ -17836,7 +17836,43 @@ label.panel-block:hover {
   padding-right: 150px !important;
 }
 
+.m-t-200 {
+  margin-top: 200px !important;
+}
+
+.p-t-200 {
+  padding-top: 200px !important;
+}
+
+.m-b-200 {
+  margin-bottom: 200px !important;
+}
+
+.p-b-200 {
+  padding-bottom: 200px !important;
+}
+
+.m-l-200 {
+  margin-left: 200px !important;
+}
+
+.p-l-200 {
+  padding-left: 200px !important;
+}
+
+.m-r-200 {
+  margin-right: 200px !important;
+}
+
+.p-r-200 {
+  padding-right: 200px !important;
+}
+
 .navbar-itme {
   font-family: serif;
+}
+
+.management-area {
+  margin-left: 130px;
 }
 
